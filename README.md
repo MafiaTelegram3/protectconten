@@ -4,9 +4,9 @@
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
-  <a href="https://t.me/File_Sharing_Support">
-    <img src="https://github.com/Dionprastt/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
-  </a><br>
+
+  
+
 
 
   </a>
