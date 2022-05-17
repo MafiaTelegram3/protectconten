@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/Dionprastt/protectconten",
-  "logo": "https://pin.it/2gqIkTM
+  
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
